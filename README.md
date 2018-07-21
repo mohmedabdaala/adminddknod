@@ -1,0 +1,2 @@
+# adminddknod
+Panda...mas
